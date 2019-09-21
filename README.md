@@ -10,4 +10,4 @@ It shows the battery percentage, status (charging, discharging or idle) and the 
 Install `python-appindicator` and `libappindicator3-1` packages.
 
 ## How to use
-To run this clone the repository and run `python powerstats.py` (or make the `powerstats.py` executable with `chmod +x powerstats.py` and execute with `./powerstats.py`)
+Clone the repository and run `python powerstats.py` (or make the `powerstats.py` executable with `chmod +x powerstats.py` and execute with `./powerstats.py`)
