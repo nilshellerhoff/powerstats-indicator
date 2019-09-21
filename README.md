@@ -1,0 +1,13 @@
+# powerstats-indicator
+The battery indicator on Gnome3 seems to be broken when using a laptop with two separate batteries (i.e. it shows remaining time calculated only on one of the batteries). This is an alternative battery indicator.
+
+It shows the battery percentage, status (charging, discharging or idle) and the remaining time until empty or full respectively.
+
+![Indicator](https://github.com/nilshellerhoff/powerstats-indicator/blob/master/indicator.png)
+![Indicator menu](https://github.com/nilshellerhoff/powerstats-indicator/blob/master/indicator-menu.png)
+
+## Dependencies
+Install `python-appindicator` and `libappindicator3-1` packages.
+
+## How to use
+To run this clone the repository and run `python powerstats.py` (or make the `powerstats.py` executable with `chmod +x powerstats.py` and execute with `./powerstats.py`)
