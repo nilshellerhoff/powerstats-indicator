@@ -7,7 +7,7 @@ It shows the battery percentage, status (charging, discharging or idle) and the 
 ![Indicator menu](https://github.com/nilshellerhoff/powerstats-indicator/blob/master/indicator-menu.png)
 
 ## Dependencies
-Install `python-appindicator` and `libappindicator3-1` packages.
+Install `python-appindicator`, `libappindicator3-1` and `gir1.2-appindicator3-0.1` packages.
 
 ## How to use
 Clone the repository and run `python powerstats.py` (or make the `powerstats.py` executable with `chmod +x powerstats.py` and execute with `./powerstats.py`)
