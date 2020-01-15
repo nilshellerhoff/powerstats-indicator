@@ -10,4 +10,4 @@ It shows the battery percentage, status (charging, discharging or idle) and the 
 Install `python-appindicator`, `libappindicator3-1` and `gir1.2-appindicator3-0.1` packages.
 
 ## How to use
-Clone the repository and run `python powerstats.py` (or make the `powerstats.py` executable with `chmod +x powerstats.py` and execute with `./powerstats.py`). You can add this script to your startup programs by adding it to your `~/.profile` file.
+Clone the repository and run `python powerstats.py` (or make the `powerstats.py` executable with `chmod +x powerstats.py` and execute with `./powerstats.py`). You can add this script to your startup programs by adding the above command to your `~/.profile` file.
